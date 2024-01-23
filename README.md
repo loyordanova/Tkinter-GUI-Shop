@@ -18,7 +18,8 @@ Login screen
 Register screen
 
 
-<img width="695" alt="Screenshot 2024-01-23 at 12 14 05" src="https://github.com/loyordanova/Tkinter-GUI-Shop/assets/122961637/06ce0d16-f2cc-49f1-8f1f-30feacc6713e">
+
+<img width="695" alt="Screenshot 2024-01-23 at 17 07 54" src="https://github.com/loyordanova/Tkinter-GUI-Shop/assets/122961637/175e4ef6-3148-4aeb-b0c0-0cd07a4eb640">
 
 
 
