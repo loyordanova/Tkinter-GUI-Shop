@@ -6,6 +6,7 @@ Tkinter GUI shop with python
 
 ![image of the app](<img width="695" alt="Screenshot 2024-01-23 at 12 11 37" src="https://github.com/loyordanova/Tkinter-GUI-Shop/assets/122961637/0d54108e-1c36-4bec-8ec6-5da394f5cb27">)
 
+<img width="695" alt="Screenshot 2024-01-23 at 12 18 56" src="https://github.com/loyordanova/Tkinter-GUI-Shop/assets/122961637/ea677b77-58ad-453d-89b8-1251d1b5199e">
 
 
 Login screen
