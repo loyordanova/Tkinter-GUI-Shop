@@ -69,7 +69,7 @@ def login():
 
     frame.create_window(250, 150, window=login_button)
     frame.create_window(400, 150, window=register_button)
-    frame.create_window(350, 100, window=show_button)
+    frame.create_window(370, 100, window=show_button)
 
 
 def register():
@@ -86,7 +86,7 @@ def register():
     frame.create_window(240, 100, window=last_name_box)
     frame.create_window(240, 150, window=username_box)
     frame.create_window(240, 200, window=password_box)
-    frame.create_window(350, 200, window=show_button)
+    frame.create_window(370, 200, window=show_button)
 
     register_button = tkm.Button(
         root,
@@ -193,9 +193,9 @@ def show():
         activebackground='white'
     )
     if not login_screen:
-        frame.create_window(350, 200, window=hide_button)
+        frame.create_window(370, 200, window=hide_button)
     else:
-        frame.create_window(350, 100, window=hide_button)
+        frame.create_window(370, 100, window=hide_button)
     password_box.config(show='')
 
 
@@ -209,9 +209,9 @@ def hide():
         bd=0
     )
     if not login_screen:
-        frame.create_window(350, 200, window=show_button)
+        frame.create_window(370, 200, window=show_button)
     else:
-        frame.create_window(350, 100, window=show_button)
+        frame.create_window(370, 100, window=show_button)
     password_box.config(show='*')
 
 
