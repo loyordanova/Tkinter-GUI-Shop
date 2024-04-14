@@ -1,8 +1,5 @@
 <h1 align="center">Tkinter GUI shop with Pytho</h1>
 
-<p align="center">
-  🧋🧋🧋
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndpejd4MGRqb3lmaW1zbTE2OWF6cmE3eWdmeWplNHBwM294amIycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xOWoe2Xjm8t5LKeCfU/giphy.gif" alt="Connect Four GIF" width="50%">
