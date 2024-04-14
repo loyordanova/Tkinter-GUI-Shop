@@ -47,7 +47,7 @@
 ---
 
 <p align="center">
-  <strong style="color:#A52A2A; font-family: cursive; font-size: 18px;">☕ "Coffee is a language in itself." - Jackie Chan</strong>
+  <strong style="color:#A52A2A; font-family: cursive; font-size: 18px;">☕ "Coffee is a language in itself" - Jackie Chan</strong>
 </p>
 
 
