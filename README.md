@@ -1,4 +1,4 @@
-<h1 align="center">Tkinter GUI shop with Pytho</h1>
+<h1 align="center">Tkinter GUI Coffee Shop with Python </h1>
 
 
 <p align="center">
