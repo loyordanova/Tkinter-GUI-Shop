@@ -42,3 +42,10 @@
 <p align="center">
   <img width="695" alt="Screenshot 2024-01-23 at 12 18 56" src="https://github.com/loyordanova/Tkinter-GUI-Shop/assets/122961637/dc7193d9-1b94-421f-b6e3-6c69faafa4ad">
 </p>
+
+---
+
+<p align="center">
+  <strong style="color:#964B00;">"Coffee is a language in itself." - Jackie Chan</strong>
+</p>
+
